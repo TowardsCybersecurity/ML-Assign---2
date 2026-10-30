@@ -1,0 +1,2259 @@
+{
+  "tree": {
+    "config": {
+      "max_depth": null,
+      "min_samples_leaf": 1
+    },
+    "bias2": 0.43313888888888885,
+    "variance": 0.6401944444444445,
+    "mean_accuracy": 0.46333333333333343,
+    "std_accuracy": 0.05541121094914435,
+    "squared_loss": 1.0733333333333333,
+    "accuracy_per_repeat": [
+      0.4875,
+      0.4375,
+      0.425,
+      0.5,
+      0.4875,
+      0.4875,
+      0.4625,
+      0.4625,
+      0.5125,
+      0.5,
+      0.5625,
+      0.4875,
+      0.5625,
+      0.5,
+      0.325,
+      0.3875,
+      0.45,
+      0.4875,
+      0.4125,
+      0.5375,
+      0.525,
+      0.4,
+      0.4,
+      0.4625,
+      0.3625,
+      0.4875,
+      0.425,
+      0.4625,
+      0.4625,
+      0.4375
+    ],
+    "diagnostics": [
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 34,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 35,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 34,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 36,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 37,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 34,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 33,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 38,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 37,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 32,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 33,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 38,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 32,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 35,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 36,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 35,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 37,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 35,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 35,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 38,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 34,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 35,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 35,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 36,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 36,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 36,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 36,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 37,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 36,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 38,
+        "reused_equivalent_fit": false
+      }
+    ],
+    "fit_seconds": [
+      1.5988467490001312,
+      1.6341309280001042,
+      1.5807322929999827,
+      1.5344187850000708,
+      1.7154099999997925,
+      1.5826992219999738,
+      1.613428254000155,
+      1.7418543670000872,
+      1.68242127800022,
+      1.484429161999742,
+      1.665951640000003,
+      1.7197381009996207,
+      1.4159405519999382,
+      1.653734839000208,
+      1.617133744000057,
+      1.7368533670000943,
+      1.6773136359997807,
+      1.7848910949996935,
+      1.4547929479999766,
+      1.6644331690004037,
+      1.571606427000006,
+      1.6625110810000479,
+      1.5870813910000834,
+      1.7576341869998942,
+      1.5442120140000952,
+      1.4639919470000677,
+      1.6355835530002878,
+      1.6378391309999643,
+      1.5567670069999622,
+      1.4496291259997633
+    ]
+  },
+  "bagging": {
+    "config": {
+      "n_estimators": 200,
+      "max_depth": null,
+      "min_samples_leaf": 1
+    },
+    "bias2": 0.5169064944444445,
+    "variance": 0.018737568055555556,
+    "mean_accuracy": 0.7695833333333332,
+    "std_accuracy": 0.031942049718668424,
+    "squared_loss": 0.5356440625000001,
+    "accuracy_per_repeat": [
+      0.8125,
+      0.725,
+      0.7,
+      0.7875,
+      0.775,
+      0.8,
+      0.8125,
+      0.7875,
+      0.775,
+      0.775,
+      0.725,
+      0.75,
+      0.725,
+      0.8,
+      0.7375,
+      0.7625,
+      0.7625,
+      0.7125,
+      0.825,
+      0.7875,
+      0.8,
+      0.7875,
+      0.7625,
+      0.7375,
+      0.7625,
+      0.8,
+      0.775,
+      0.7625,
+      0.8,
+      0.7625
+    ],
+    "diagnostics": [
+      {
+        "disagreement": 0.8171400753768845,
+        "max_achieved_depth": 42,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.810322864321608,
+        "max_achieved_depth": 43,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.8113793969849246,
+        "max_achieved_depth": 47,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.8165797738693468,
+        "max_achieved_depth": 43,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.816177135678392,
+        "max_achieved_depth": 46,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.8182462311557789,
+        "max_achieved_depth": 42,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.8262380653266331,
+        "max_achieved_depth": 43,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.8272129396984924,
+        "max_achieved_depth": 42,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.8326482412060301,
+        "max_achieved_depth": 44,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.830177135678392,
+        "max_achieved_depth": 44,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.8119447236180904,
+        "max_achieved_depth": 44,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.8173052763819095,
+        "max_achieved_depth": 44,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.814055904522613,
+        "max_achieved_depth": 42,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.8052292713567839,
+        "max_achieved_depth": 44,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.8344195979899498,
+        "max_achieved_depth": 45,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.8189767587939698,
+        "max_achieved_depth": 44,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.821890703517588,
+        "max_achieved_depth": 43,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.8058335427135679,
+        "max_achieved_depth": 44,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.8322732412060302,
+        "max_achieved_depth": 43,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.8270087939698493,
+        "max_achieved_depth": 44,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.812052135678392,
+        "max_achieved_depth": 42,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.8114152010050251,
+        "max_achieved_depth": 44,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.8227361809045226,
+        "max_achieved_depth": 43,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.8212575376884422,
+        "max_achieved_depth": 43,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.8229309045226131,
+        "max_achieved_depth": 42,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.8230433417085428,
+        "max_achieved_depth": 43,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.8256180904522613,
+        "max_achieved_depth": 43,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.8302267587939698,
+        "max_achieved_depth": 42,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.813446608040201,
+        "max_achieved_depth": 43,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.8289252512562815,
+        "max_achieved_depth": 44,
+        "reused_equivalent_fit": false
+      }
+    ],
+    "fit_seconds": [
+      238.44733569200002,
+      242.1940068299998,
+      235.76156060699986,
+      240.77442683100026,
+      242.0606302409999,
+      231.4657984979999,
+      227.7536278299999,
+      229.8162933630001,
+      235.50045192199968,
+      227.83920269100008,
+      233.13054587999977,
+      236.14002463299994,
+      228.20304500099974,
+      235.80942566199974,
+      234.72235704800005,
+      238.86619450399985,
+      231.9226009580002,
+      234.55297974600035,
+      225.24360218699985,
+      230.36322719700001,
+      226.38650726100013,
+      222.74156201799997,
+      221.44120305000024,
+      228.61309083499964,
+      228.69438084400008,
+      227.84074637799995,
+      220.83180196600006,
+      220.39844016000006,
+      225.45026590499992,
+      228.46361514599994
+    ]
+  },
+  "boosting": {
+    "config": {
+      "n_estimators": 50,
+      "max_depth": 4
+    },
+    "bias2": 0.8906513836232424,
+    "variance": 0.020598015135402898,
+    "mean_accuracy": 0.2508333333333333,
+    "std_accuracy": 0.08206214353950822,
+    "squared_loss": 0.9112493987586454,
+    "accuracy_per_repeat": [
+      0.2625,
+      0.2,
+      0.35,
+      0.4375,
+      0.1625,
+      0.3125,
+      0.35,
+      0.2125,
+      0.175,
+      0.175,
+      0.3125,
+      0.2875,
+      0.3,
+      0.425,
+      0.2375,
+      0.1875,
+      0.25,
+      0.4,
+      0.2,
+      0.2125,
+      0.15,
+      0.275,
+      0.25,
+      0.1875,
+      0.2375,
+      0.3,
+      0.175,
+      0.1875,
+      0.15,
+      0.1625
+    ],
+    "diagnostics": [
+      {
+        "stop_reason": "round_limit",
+        "reused_equivalent_fit": false
+      },
+      {
+        "stop_reason": "round_limit",
+        "reused_equivalent_fit": false
+      },
+      {
+        "stop_reason": "round_limit",
+        "reused_equivalent_fit": false
+      },
+      {
+        "stop_reason": "round_limit",
+        "reused_equivalent_fit": false
+      },
+      {
+        "stop_reason": "round_limit",
+        "reused_equivalent_fit": false
+      },
+      {
+        "stop_reason": "round_limit",
+        "reused_equivalent_fit": false
+      },
+      {
+        "stop_reason": "round_limit",
+        "reused_equivalent_fit": false
+      },
+      {
+        "stop_reason": "round_limit",
+        "reused_equivalent_fit": false
+      },
+      {
+        "stop_reason": "round_limit",
+        "reused_equivalent_fit": false
+      },
+      {
+        "stop_reason": "round_limit",
+        "reused_equivalent_fit": false
+      },
+      {
+        "stop_reason": "round_limit",
+        "reused_equivalent_fit": false
+      },
+      {
+        "stop_reason": "round_limit",
+        "reused_equivalent_fit": false
+      },
+      {
+        "stop_reason": "round_limit",
+        "reused_equivalent_fit": false
+      },
+      {
+        "stop_reason": "round_limit",
+        "reused_equivalent_fit": false
+      },
+      {
+        "stop_reason": "round_limit",
+        "reused_equivalent_fit": false
+      },
+      {
+        "stop_reason": "round_limit",
+        "reused_equivalent_fit": false
+      },
+      {
+        "stop_reason": "round_limit",
+        "reused_equivalent_fit": false
+      },
+      {
+        "stop_reason": "round_limit",
+        "reused_equivalent_fit": false
+      },
+      {
+        "stop_reason": "round_limit",
+        "reused_equivalent_fit": false
+      },
+      {
+        "stop_reason": "round_limit",
+        "reused_equivalent_fit": false
+      },
+      {
+        "stop_reason": "round_limit",
+        "reused_equivalent_fit": false
+      },
+      {
+        "stop_reason": "round_limit",
+        "reused_equivalent_fit": false
+      },
+      {
+        "stop_reason": "round_limit",
+        "reused_equivalent_fit": false
+      },
+      {
+        "stop_reason": "round_limit",
+        "reused_equivalent_fit": false
+      },
+      {
+        "stop_reason": "round_limit",
+        "reused_equivalent_fit": false
+      },
+      {
+        "stop_reason": "round_limit",
+        "reused_equivalent_fit": false
+      },
+      {
+        "stop_reason": "round_limit",
+        "reused_equivalent_fit": false
+      },
+      {
+        "stop_reason": "round_limit",
+        "reused_equivalent_fit": false
+      },
+      {
+        "stop_reason": "round_limit",
+        "reused_equivalent_fit": false
+      },
+      {
+        "stop_reason": "round_limit",
+        "reused_equivalent_fit": false
+      }
+    ],
+    "fit_seconds": [
+      16.99455188999991,
+      16.560853652000333,
+      16.165423061999718,
+      16.5157523820003,
+      16.46105343699992,
+      16.10884216500017,
+      16.647194824000053,
+      16.663942687000144,
+      16.7685824780001,
+      16.47420999799988,
+      17.113476037000055,
+      16.575767367000026,
+      15.084279751000395,
+      15.983351845000016,
+      16.2783570229999,
+      17.65031800099996,
+      16.874521814999753,
+      17.434511399000257,
+      15.515130680999846,
+      15.752995288999955,
+      15.947225847000027,
+      16.17815869700007,
+      16.491549659000157,
+      15.696529454000029,
+      16.112095501000113,
+      15.808575965999808,
+      15.885229127000002,
+      16.438090972999817,
+      16.33469662499965,
+      14.247937964999892
+    ]
+  },
+  "depth0_tree": {
+    "config": {
+      "max_depth": 2,
+      "min_samples_leaf": 1
+    },
+    "bias2": 0.9118939029478307,
+    "variance": 0.040037403358475644,
+    "mean_accuracy": 0.06041666666666667,
+    "std_accuracy": 0.012319093208157179,
+    "squared_loss": 0.9519313063063064,
+    "accuracy_per_repeat": [
+      0.075,
+      0.0375,
+      0.0625,
+      0.0625,
+      0.05,
+      0.075,
+      0.05,
+      0.075,
+      0.0625,
+      0.0625,
+      0.075,
+      0.05,
+      0.05,
+      0.0625,
+      0.05,
+      0.05,
+      0.05,
+      0.05,
+      0.05,
+      0.0625,
+      0.075,
+      0.075,
+      0.075,
+      0.0375,
+      0.0625,
+      0.075,
+      0.05,
+      0.05,
+      0.075,
+      0.075
+    ],
+    "diagnostics": [
+      {
+        "leaves": 3,
+        "mean_samples": 80.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 3,
+        "mean_samples": 80.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 3,
+        "mean_samples": 80.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 3,
+        "mean_samples": 80.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 3,
+        "mean_samples": 80.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 3,
+        "mean_samples": 80.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 3,
+        "mean_samples": 80.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 3,
+        "mean_samples": 80.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 3,
+        "mean_samples": 80.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 3,
+        "mean_samples": 80.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 3,
+        "mean_samples": 80.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 3,
+        "mean_samples": 80.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 3,
+        "mean_samples": 80.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 3,
+        "mean_samples": 80.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 3,
+        "mean_samples": 80.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 3,
+        "mean_samples": 80.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 3,
+        "mean_samples": 80.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 3,
+        "mean_samples": 80.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 3,
+        "mean_samples": 80.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 3,
+        "mean_samples": 80.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 3,
+        "mean_samples": 80.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 3,
+        "mean_samples": 80.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 3,
+        "mean_samples": 80.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 3,
+        "mean_samples": 80.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 4,
+        "mean_samples": 60.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 3,
+        "mean_samples": 80.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 3,
+        "mean_samples": 80.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 3,
+        "mean_samples": 80.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 3,
+        "mean_samples": 80.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "leaves": 3,
+        "mean_samples": 80.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 2,
+        "reused_equivalent_fit": false
+      }
+    ],
+    "fit_seconds": [
+      0.1683615629999622,
+      0.16638988700015034,
+      0.16122013499989407,
+      0.15747338699975444,
+      0.15915270799996506,
+      0.15935517700017954,
+      0.1628761859997212,
+      0.1631085459998758,
+      0.1635088729999552,
+      0.1631654669999989,
+      0.17636222599958273,
+      0.1635500099996534,
+      0.1496010609998848,
+      0.16110096900001736,
+      0.16326582199963013,
+      0.1823509959999683,
+      0.15971099800026423,
+      0.17690118200016514,
+      0.1524311459997989,
+      0.15554492599994774,
+      0.15724701499993898,
+      0.15910421999979008,
+      0.16528582499995537,
+      0.16217309199964802,
+      0.15359566999995877,
+      0.15205756699970152,
+      0.16134065999995073,
+      0.15848857400033012,
+      0.15031322400000136,
+      0.1395309989998168
+    ]
+  },
+  "depth0_bagging": {
+    "config": {
+      "n_estimators": 100,
+      "max_depth": 2,
+      "min_samples_leaf": 1
+    },
+    "bias2": 0.9399291250000001,
+    "variance": 0.0035634583333333334,
+    "mean_accuracy": 0.15583333333333335,
+    "std_accuracy": 0.04810339677828578,
+    "squared_loss": 0.9434925833333333,
+    "accuracy_per_repeat": [
+      0.225,
+      0.0875,
+      0.175,
+      0.1875,
+      0.15,
+      0.125,
+      0.15,
+      0.15,
+      0.225,
+      0.1125,
+      0.25,
+      0.1,
+      0.15,
+      0.1375,
+      0.125,
+      0.15,
+      0.1125,
+      0.175,
+      0.25,
+      0.1375,
+      0.25,
+      0.125,
+      0.1,
+      0.1375,
+      0.125,
+      0.15,
+      0.0875,
+      0.15,
+      0.225,
+      0.15
+    ],
+    "diagnostics": [
+      {
+        "disagreement": 0.9618333333333333,
+        "max_achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.9626111111111111,
+        "max_achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.9635025252525252,
+        "max_achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.9645252525252526,
+        "max_achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.9618434343434343,
+        "max_achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.9598838383838384,
+        "max_achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.9621035353535353,
+        "max_achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.9633055555555555,
+        "max_achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.9627424242424243,
+        "max_achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.9639040404040404,
+        "max_achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.9658131313131313,
+        "max_achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.9587045454545454,
+        "max_achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.9621717171717171,
+        "max_achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.9628813131313131,
+        "max_achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.9648055555555556,
+        "max_achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.9620631313131314,
+        "max_achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.9627121212121212,
+        "max_achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.9611060606060606,
+        "max_achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.9650707070707071,
+        "max_achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.9643131313131313,
+        "max_achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.9629166666666666,
+        "max_achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.9629621212121212,
+        "max_achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.961040404040404,
+        "max_achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.9625505050505051,
+        "max_achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.9614065656565657,
+        "max_achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.9656792929292929,
+        "max_achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.9590606060606061,
+        "max_achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.9652929292929293,
+        "max_achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.9618661616161617,
+        "max_achieved_depth": 2,
+        "reused_equivalent_fit": false
+      },
+      {
+        "disagreement": 0.9626136363636364,
+        "max_achieved_depth": 2,
+        "reused_equivalent_fit": false
+      }
+    ],
+    "fit_seconds": [
+      14.828715464000197,
+      14.301567418000104,
+      14.682384143000036,
+      14.735287432000405,
+      14.629405194000356,
+      14.603194391000216,
+      15.099228146999849,
+      15.036307891999968,
+      15.211609139999837,
+      14.594761070999994,
+      14.552628081000421,
+      14.871611267999924,
+      13.952501057000063,
+      14.01679699899978,
+      13.814920971999982,
+      14.472885955000038,
+      13.829275757000232,
+      14.077430147000086,
+      14.350937639999756,
+      14.062163367999801,
+      14.027343633000328,
+      13.708759658999952,
+      13.328611059000195,
+      14.123903917000007,
+      14.132464667000022,
+      14.323926244999711,
+      13.943202021000161,
+      14.207872425000005,
+      13.987648115999946,
+      13.657028136000008
+    ]
+  },
+  "depth1_tree": {
+    "config": {
+      "max_depth": null,
+      "min_samples_leaf": 1
+    },
+    "bias2": 0.43313888888888885,
+    "variance": 0.6401944444444445,
+    "mean_accuracy": 0.46333333333333343,
+    "std_accuracy": 0.05541121094914435,
+    "squared_loss": 1.0733333333333333,
+    "accuracy_per_repeat": [
+      0.4875,
+      0.4375,
+      0.425,
+      0.5,
+      0.4875,
+      0.4875,
+      0.4625,
+      0.4625,
+      0.5125,
+      0.5,
+      0.5625,
+      0.4875,
+      0.5625,
+      0.5,
+      0.325,
+      0.3875,
+      0.45,
+      0.4875,
+      0.4125,
+      0.5375,
+      0.525,
+      0.4,
+      0.4,
+      0.4625,
+      0.3625,
+      0.4875,
+      0.425,
+      0.4625,
+      0.4625,
+      0.4375
+    ],
+    "diagnostics": [
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 34,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 35,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 34,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 36,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 37,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 34,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 33,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 38,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 37,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 32,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 33,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 38,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 32,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 35,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 36,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 35,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 37,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 35,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 35,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 38,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 34,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 35,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 35,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 36,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 36,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 36,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 36,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 37,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 36,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 38,
+        "reused_equivalent_fit": true
+      }
+    ],
+    "fit_seconds": [
+      1.5988467490001312,
+      1.6341309280001042,
+      1.5807322929999827,
+      1.5344187850000708,
+      1.7154099999997925,
+      1.5826992219999738,
+      1.613428254000155,
+      1.7418543670000872,
+      1.68242127800022,
+      1.484429161999742,
+      1.665951640000003,
+      1.7197381009996207,
+      1.4159405519999382,
+      1.653734839000208,
+      1.617133744000057,
+      1.7368533670000943,
+      1.6773136359997807,
+      1.7848910949996935,
+      1.4547929479999766,
+      1.6644331690004037,
+      1.571606427000006,
+      1.6625110810000479,
+      1.5870813910000834,
+      1.7576341869998942,
+      1.5442120140000952,
+      1.4639919470000677,
+      1.6355835530002878,
+      1.6378391309999643,
+      1.5567670069999622,
+      1.4496291259997633
+    ]
+  },
+  "depth1_bagging": {
+    "config": {
+      "n_estimators": 100,
+      "max_depth": null,
+      "min_samples_leaf": 1
+    },
+    "bias2": 0.5150034472222222,
+    "variance": 0.022618469444444445,
+    "mean_accuracy": 0.7604166666666667,
+    "std_accuracy": 0.02648261737420427,
+    "squared_loss": 0.5376219166666667,
+    "accuracy_per_repeat": [
+      0.75,
+      0.725,
+      0.725,
+      0.775,
+      0.775,
+      0.775,
+      0.8,
+      0.7875,
+      0.7375,
+      0.75,
+      0.7375,
+      0.7375,
+      0.7375,
+      0.8,
+      0.75,
+      0.7875,
+      0.75,
+      0.7125,
+      0.775,
+      0.775,
+      0.7875,
+      0.775,
+      0.775,
+      0.7375,
+      0.7375,
+      0.8,
+      0.775,
+      0.7375,
+      0.8,
+      0.725
+    ],
+    "diagnostics": [
+      {
+        "disagreement": 0.8157474747474748,
+        "max_achieved_depth": 42,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8096641414141414,
+        "max_achieved_depth": 43,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8123560606060606,
+        "max_achieved_depth": 47,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8192247474747475,
+        "max_achieved_depth": 43,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8122777777777778,
+        "max_achieved_depth": 46,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8127752525252525,
+        "max_achieved_depth": 42,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8300075757575758,
+        "max_achieved_depth": 43,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.830060606060606,
+        "max_achieved_depth": 42,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8277878787878787,
+        "max_achieved_depth": 43,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8302146464646465,
+        "max_achieved_depth": 43,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8037828282828283,
+        "max_achieved_depth": 44,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8187727272727272,
+        "max_achieved_depth": 44,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8140126262626263,
+        "max_achieved_depth": 42,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8060202020202021,
+        "max_achieved_depth": 42,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.836260101010101,
+        "max_achieved_depth": 42,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8191085858585858,
+        "max_achieved_depth": 44,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.821489898989899,
+        "max_achieved_depth": 43,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8022525252525252,
+        "max_achieved_depth": 43,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8336590909090908,
+        "max_achieved_depth": 41,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8251212121212121,
+        "max_achieved_depth": 44,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.809219696969697,
+        "max_achieved_depth": 42,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8109444444444445,
+        "max_achieved_depth": 44,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8195606060606061,
+        "max_achieved_depth": 43,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8221691919191919,
+        "max_achieved_depth": 43,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8286515151515151,
+        "max_achieved_depth": 42,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8220378787878788,
+        "max_achieved_depth": 43,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8223611111111111,
+        "max_achieved_depth": 42,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8272929292929293,
+        "max_achieved_depth": 42,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8066919191919192,
+        "max_achieved_depth": 43,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8253156565656565,
+        "max_achieved_depth": 44,
+        "reused_equivalent_fit": true
+      }
+    ],
+    "fit_seconds": [
+      238.44733569200002,
+      242.1940068299998,
+      235.76156060699986,
+      240.77442683100026,
+      242.0606302409999,
+      231.4657984979999,
+      227.7536278299999,
+      229.8162933630001,
+      235.50045192199968,
+      227.83920269100008,
+      233.13054587999977,
+      236.14002463299994,
+      228.20304500099974,
+      235.80942566199974,
+      234.72235704800005,
+      238.86619450399985,
+      231.9226009580002,
+      234.55297974600035,
+      225.24360218699985,
+      230.36322719700001,
+      226.38650726100013,
+      222.74156201799997,
+      221.44120305000024,
+      228.61309083499964,
+      228.69438084400008,
+      227.84074637799995,
+      220.83180196600006,
+      220.39844016000006,
+      225.45026590499992,
+      228.46361514599994
+    ]
+  },
+  "depth2_tree": {
+    "config": {
+      "max_depth": 64,
+      "min_samples_leaf": 1
+    },
+    "bias2": 0.43313888888888885,
+    "variance": 0.6401944444444445,
+    "mean_accuracy": 0.46333333333333343,
+    "std_accuracy": 0.05541121094914435,
+    "squared_loss": 1.0733333333333333,
+    "accuracy_per_repeat": [
+      0.4875,
+      0.4375,
+      0.425,
+      0.5,
+      0.4875,
+      0.4875,
+      0.4625,
+      0.4625,
+      0.5125,
+      0.5,
+      0.5625,
+      0.4875,
+      0.5625,
+      0.5,
+      0.325,
+      0.3875,
+      0.45,
+      0.4875,
+      0.4125,
+      0.5375,
+      0.525,
+      0.4,
+      0.4,
+      0.4625,
+      0.3625,
+      0.4875,
+      0.425,
+      0.4625,
+      0.4625,
+      0.4375
+    ],
+    "diagnostics": [
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 34,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 35,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 34,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 36,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 37,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 34,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 33,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 38,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 37,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 32,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 33,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 38,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 32,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 35,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 36,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 35,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 37,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 35,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 35,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 38,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 34,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 35,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 35,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 36,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 36,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 36,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 36,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 37,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 36,
+        "reused_equivalent_fit": true
+      },
+      {
+        "leaves": 40,
+        "mean_samples": 6.0,
+        "singleton_fraction": 0.0,
+        "achieved_depth": 38,
+        "reused_equivalent_fit": true
+      }
+    ],
+    "fit_seconds": [
+      1.5988467490001312,
+      1.6341309280001042,
+      1.5807322929999827,
+      1.5344187850000708,
+      1.7154099999997925,
+      1.5826992219999738,
+      1.613428254000155,
+      1.7418543670000872,
+      1.68242127800022,
+      1.484429161999742,
+      1.665951640000003,
+      1.7197381009996207,
+      1.4159405519999382,
+      1.653734839000208,
+      1.617133744000057,
+      1.7368533670000943,
+      1.6773136359997807,
+      1.7848910949996935,
+      1.4547929479999766,
+      1.6644331690004037,
+      1.571606427000006,
+      1.6625110810000479,
+      1.5870813910000834,
+      1.7576341869998942,
+      1.5442120140000952,
+      1.4639919470000677,
+      1.6355835530002878,
+      1.6378391309999643,
+      1.5567670069999622,
+      1.4496291259997633
+    ]
+  },
+  "depth2_bagging": {
+    "config": {
+      "n_estimators": 100,
+      "max_depth": 64,
+      "min_samples_leaf": 1
+    },
+    "bias2": 0.5150034472222222,
+    "variance": 0.022618469444444445,
+    "mean_accuracy": 0.7604166666666667,
+    "std_accuracy": 0.02648261737420427,
+    "squared_loss": 0.5376219166666667,
+    "accuracy_per_repeat": [
+      0.75,
+      0.725,
+      0.725,
+      0.775,
+      0.775,
+      0.775,
+      0.8,
+      0.7875,
+      0.7375,
+      0.75,
+      0.7375,
+      0.7375,
+      0.7375,
+      0.8,
+      0.75,
+      0.7875,
+      0.75,
+      0.7125,
+      0.775,
+      0.775,
+      0.7875,
+      0.775,
+      0.775,
+      0.7375,
+      0.7375,
+      0.8,
+      0.775,
+      0.7375,
+      0.8,
+      0.725
+    ],
+    "diagnostics": [
+      {
+        "disagreement": 0.8157474747474748,
+        "max_achieved_depth": 42,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8096641414141414,
+        "max_achieved_depth": 43,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8123560606060606,
+        "max_achieved_depth": 47,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8192247474747475,
+        "max_achieved_depth": 43,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8122777777777778,
+        "max_achieved_depth": 46,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8127752525252525,
+        "max_achieved_depth": 42,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8300075757575758,
+        "max_achieved_depth": 43,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.830060606060606,
+        "max_achieved_depth": 42,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8277878787878787,
+        "max_achieved_depth": 43,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8302146464646465,
+        "max_achieved_depth": 43,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8037828282828283,
+        "max_achieved_depth": 44,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8187727272727272,
+        "max_achieved_depth": 44,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8140126262626263,
+        "max_achieved_depth": 42,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8060202020202021,
+        "max_achieved_depth": 42,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.836260101010101,
+        "max_achieved_depth": 42,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8191085858585858,
+        "max_achieved_depth": 44,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.821489898989899,
+        "max_achieved_depth": 43,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8022525252525252,
+        "max_achieved_depth": 43,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8336590909090908,
+        "max_achieved_depth": 41,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8251212121212121,
+        "max_achieved_depth": 44,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.809219696969697,
+        "max_achieved_depth": 42,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8109444444444445,
+        "max_achieved_depth": 44,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8195606060606061,
+        "max_achieved_depth": 43,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8221691919191919,
+        "max_achieved_depth": 43,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8286515151515151,
+        "max_achieved_depth": 42,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8220378787878788,
+        "max_achieved_depth": 43,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8223611111111111,
+        "max_achieved_depth": 42,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8272929292929293,
+        "max_achieved_depth": 42,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8066919191919192,
+        "max_achieved_depth": 43,
+        "reused_equivalent_fit": true
+      },
+      {
+        "disagreement": 0.8253156565656565,
+        "max_achieved_depth": 44,
+        "reused_equivalent_fit": true
+      }
+    ],
+    "fit_seconds": [
+      238.44733569200002,
+      242.1940068299998,
+      235.76156060699986,
+      240.77442683100026,
+      242.0606302409999,
+      231.4657984979999,
+      227.7536278299999,
+      229.8162933630001,
+      235.50045192199968,
+      227.83920269100008,
+      233.13054587999977,
+      236.14002463299994,
+      228.20304500099974,
+      235.80942566199974,
+      234.72235704800005,
+      238.86619450399985,
+      231.9226009580002,
+      234.55297974600035,
+      225.24360218699985,
+      230.36322719700001,
+      226.38650726100013,
+      222.74156201799997,
+      221.44120305000024,
+      228.61309083499964,
+      228.69438084400008,
+      227.84074637799995,
+      220.83180196600006,
+      220.39844016000006,
+      225.45026590499992,
+      228.46361514599994
+    ]
+  }
+}

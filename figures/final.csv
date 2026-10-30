@@ -1,0 +1,4 @@
+Model,Clean,Masked,Bias squared,Variance
+Tree,53.75,53.75,0.4331,0.6402
+Bagging,85.00,71.25,0.5169,0.0187
+Boosting,33.75,27.50,0.8907,0.0206

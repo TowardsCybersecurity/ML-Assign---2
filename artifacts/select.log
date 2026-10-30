@@ -1,0 +1,1 @@
+Frozen: {'tree': {'max_depth': None, 'min_samples_leaf': 1}, 'bagging': {'n_estimators': 200, 'max_depth': None, 'min_samples_leaf': 1}, 'boosting': {'n_estimators': 50, 'max_depth': 4}, 'model_seed': 260013, 'selection': 'maximum validation correct; tie earliest listed candidate', 'split_sha256': '44f218adb0937e014d829af5fa0a66d6b75591e47fba664cae813985bfe2f4df'}

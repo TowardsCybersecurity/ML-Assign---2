@@ -1,0 +1,12 @@
+{
+  "command": "python -m src.experiment resample",
+  "seconds": 1333.8133205489999,
+  "repetitions": 30,
+  "depths": [
+    2,
+    null,
+    64
+  ],
+  "model_rng": "fixed across refits",
+  "resample_seed": 260014
+}

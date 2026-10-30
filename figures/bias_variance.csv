@@ -1,0 +1,4 @@
+Model,Bias squared,Variance,Mean acc.,SD (pp)
+Tree,0.4331,0.6402,46.33,5.54
+Bagging,0.5169,0.0187,76.96,3.19
+Boosting,0.8907,0.0206,25.08,8.21

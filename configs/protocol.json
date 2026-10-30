@@ -1,0 +1,43 @@
+{
+  "name": "Vaibhav Krishna",
+  "roll": "P26CS0012",
+  "seed": 260012,
+  "model_seed": 260013,
+  "resample_seed": 260014,
+  "tree_depths": [
+    2,
+    4,
+    8,
+    16,
+    null
+  ],
+  "leaves": [
+    1,
+    2,
+    4
+  ],
+  "bag_sizes": [
+    1,
+    5,
+    10,
+    25,
+    50,
+    100,
+    200
+  ],
+  "boost_depths": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "boost_rounds": [
+    10,
+    25,
+    50,
+    100
+  ],
+  "repetitions": 30,
+  "selection": "maximum validation correct; tie earliest listed candidate",
+  "repository_url": "https://github.com/TowardsCybersecurity/ML-Assign---2"
+}

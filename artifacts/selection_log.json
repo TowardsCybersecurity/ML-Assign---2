@@ -1,0 +1,5 @@
+{
+  "seconds": 311.784914371,
+  "command": "python -m src.experiment select",
+  "test_used": false
+}

@@ -1,0 +1,6 @@
+{
+  "command": "python -m src.experiment evaluate",
+  "frozen_sha256": "40e140582bdd54f4d612650c8e2e38bc435504d3694bf9ac064ddf4a6cf8e7fc",
+  "tree_seconds": 1.763003162999894,
+  "boost_stop": "round_limit"
+}

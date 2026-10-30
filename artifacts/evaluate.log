@@ -1,0 +1,98 @@
+{
+  "tree": {
+    "train": {
+      "correct": 240,
+      "n": 240,
+      "accuracy": 1.0,
+      "confidence": 1.0,
+      "inference_seconds": 0.0006184399999256129
+    },
+    "validation": {
+      "correct": 49,
+      "n": 80,
+      "accuracy": 0.6125,
+      "confidence": 1.0,
+      "inference_seconds": 0.00032510799996998685
+    },
+    "clean": {
+      "correct": 43,
+      "n": 80,
+      "accuracy": 0.5375,
+      "confidence": 1.0,
+      "inference_seconds": 0.0003372609999132692
+    },
+    "masked": {
+      "correct": 43,
+      "n": 80,
+      "accuracy": 0.5375,
+      "confidence": 1.0,
+      "inference_seconds": 0.0002760109998689586
+    },
+    "drop_pp": 0.0,
+    "fit_seconds": 1.763003162999894
+  },
+  "bagging": {
+    "train": {
+      "correct": 240,
+      "n": 240,
+      "accuracy": 1.0,
+      "confidence": 0.7525,
+      "inference_seconds": 0.12608129699992787
+    },
+    "validation": {
+      "correct": 72,
+      "n": 80,
+      "accuracy": 0.9,
+      "confidence": 0.39262499999999995,
+      "inference_seconds": 0.040063804999817876
+    },
+    "clean": {
+      "correct": 68,
+      "n": 80,
+      "accuracy": 0.85,
+      "confidence": 0.38531249999999995,
+      "inference_seconds": 0.03999277799994161
+    },
+    "masked": {
+      "correct": 57,
+      "n": 80,
+      "accuracy": 0.7125,
+      "confidence": 0.2803125,
+      "inference_seconds": 0.039609072000075685
+    },
+    "drop_pp": 13.749999999999996,
+    "fit_seconds": 250.10960989099976
+  },
+  "boosting": {
+    "train": {
+      "correct": 235,
+      "n": 240,
+      "accuracy": 0.9791666666666666,
+      "confidence": 0.1461636620719103,
+      "inference_seconds": 0.029704254999842306
+    },
+    "validation": {
+      "correct": 32,
+      "n": 80,
+      "accuracy": 0.4,
+      "confidence": 0.12815268607873126,
+      "inference_seconds": 0.009483956999929433
+    },
+    "clean": {
+      "correct": 27,
+      "n": 80,
+      "accuracy": 0.3375,
+      "confidence": 0.1283708526584298,
+      "inference_seconds": 0.00930677100018329
+    },
+    "masked": {
+      "correct": 22,
+      "n": 80,
+      "accuracy": 0.275,
+      "confidence": 0.12905610643881618,
+      "inference_seconds": 0.009566368999912811
+    },
+    "drop_pp": 6.25,
+    "fit_seconds": 21.842029726999726
+  }
+}

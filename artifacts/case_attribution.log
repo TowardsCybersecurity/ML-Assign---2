@@ -1,0 +1,35 @@
+[
+  {
+    "round": 14,
+    "clean_prediction": 20,
+    "masked_prediction": 33,
+    "alpha": 3.2525431664052045,
+    "normalized_alpha": 0.021931291619907575,
+    "weighted_error": 0.6013320660187438,
+    "largest_training_weight": 0.06415812135529719,
+    "heaviest_training_image": 339,
+    "largest_weight_identity": 33,
+    "top_weight_class": 20,
+    "top_class_mass": 0.08423203378973622,
+    "clean_path_nodes_in_mask": [
+      0,
+      8
+    ]
+  },
+  {
+    "round": 42,
+    "clean_prediction": 4,
+    "masked_prediction": 35,
+    "alpha": 2.765641803742462,
+    "normalized_alpha": 0.01864820659125014,
+    "weighted_error": 0.7105218420895035,
+    "largest_training_weight": 0.050791896902506135,
+    "heaviest_training_image": 5,
+    "largest_weight_identity": 0,
+    "top_weight_class": 30,
+    "top_class_mass": 0.06662993855769685,
+    "clean_path_nodes_in_mask": [
+      8
+    ]
+  }
+]
